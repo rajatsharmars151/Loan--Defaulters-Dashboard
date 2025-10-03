@@ -27,4 +27,4 @@ breakdown by gender, region, employment status, and credit score.
 - Tableau Workbook (.twb or .twbx)
 
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/rajatsharmars151/Loan--Defaulters-Dashboard)
