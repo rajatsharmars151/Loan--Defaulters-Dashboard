@@ -29,4 +29,4 @@ breakdown by gender, region, employment status, and credit score.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/rajatsharma151/Loan--Defaulters-Dashboard/main/Dashboard.png)
+![Dashboard](Dashboard.png)
