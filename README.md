@@ -1,5 +1,7 @@
 # Loan Defaulters Analysis Dashboard (Tableau)
 
+Github Repo Link (https://github.com/rajatsharmars151/Loan--Defaulters-Dashboard)
+
 ## 📊 Overview
 This project analyzes loan defaulters in India using Tableau. 
 It provides insights into total loan amounts, default percentages, 
