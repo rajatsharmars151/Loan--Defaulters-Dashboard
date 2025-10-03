@@ -25,3 +25,6 @@ breakdown by gender, region, employment status, and credit score.
 - Dataset (CSV/Excel)
 - Screenshots of Dashboard
 - Tableau Workbook (.twb or .twbx)
+
+
+![Dashboard](screenshots/dashboard.png)
