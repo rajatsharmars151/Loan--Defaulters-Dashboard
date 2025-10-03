@@ -19,7 +19,7 @@ breakdown by gender, region, employment status, and credit score.
 - Excel (Data Source)
 
 ## 🌐 Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/rajat.sharma7388/viz/LoanDefaulterinIndia/LoanDefaultersOverview)
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/rajat.sharma7388/viz/LoanDefaulterinIndia/Genderwiseloanamount)
 
 ## 📂 Files
 - Dataset (CSV/Excel)
